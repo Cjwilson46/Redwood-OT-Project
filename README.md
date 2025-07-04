@@ -51,9 +51,3 @@ Both systems were analyzed from a cybersecurity posture perspective, particularl
 - Practiced OT-specific penetration testing planning and remediation
 - Developed documentation that bridges technical and executive-level audiences
 ---
-## 🔗 References
-
-- [CISA ICS Alerts](https://www.cisa.gov/news-events/ics-alerts)
-- [NIST 800-82 Guide to ICS Security](https://csrc.nist.gov/publications/detail/sp/800-82/rev-2/final)
-- [NTCIP Protocol Overview](https://www.ntcip.org/about/)
-- [GE Grid: IEC 61850 Deep Dive](https://www.gegridsolutions.com/multilin/journals/issues/spring09/iec61850.pdf)
