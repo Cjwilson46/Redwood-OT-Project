@@ -50,15 +50,7 @@ Both systems were analyzed from a cybersecurity posture perspective, particularl
 - Conducted detailed malware impact mapping on ICS environments
 - Practiced OT-specific penetration testing planning and remediation
 - Developed documentation that bridges technical and executive-level audiences
-
 ---
-
-## 📄 Full Report
-
-Access the full report [here](./Redwood_Final_Report.pdf)
-
----
-
 ## 🔗 References
 
 - [CISA ICS Alerts](https://www.cisa.gov/news-events/ics-alerts)
